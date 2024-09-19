@@ -31,7 +31,7 @@ int Fps() {
 	int fps, choice;
 	cout << "\nSET MAX FPS\n1: 1 Fps\n2: 10 Fps\n3: 60 Fps "
 		"\nNOTE: if not chosen or pressed any other "
-		"key, the Max Fps will be automatically set "
+		"key, the Max aaFps will be automatically set "
 		"to 60 Fps\nChoose difficulty level: ";
 	cin >> choice;
 	switch (choice) {
